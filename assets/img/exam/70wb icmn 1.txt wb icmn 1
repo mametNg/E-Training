@@ -1,0 +1,69 @@
+WIRE bonding icmn 
+
+1.Apa yang dimaksud dengan Package ?						
+A	Identitas atau nama dari perangkat utama											
+B	Tempat meng-assembly semua komponen semiconductor											
+C	Kemasan yang berfungsi sebagai pelindung perangkat utama dari faktor external											
+D	Bahan baku proses pengkapsulan untuk melindungi perangkat utama											
+
+																						
+2.Yang manakah dari type package berikut ini yang termasuk produk MICON yang benar ?									
+A	LQFP 048-P-0707A, LQFP 032-P-0707B, LQFP 032-P-0707C											
+	MICON yang benar ?										
+B	LQFP 064-P-1414, LQFP 080-P-1414, LQFP 100-P-1414											
+C	QFP 048-P-1212C, QFP 056-P-1010B, QFP 064-P-1010A											
+D	QFH 064-P-1414H, QFH 080-P-1420I, QFP 100-P-1818											
+	
+																						
+3.Apa yang dimaksud dengan Device ?										
+A	Tempat meng-assembly semua komponen semiconductor										
+B	Identitas atau nama dari perangkat utama											
+C	Kemasan yang berfungsi sebagai pelindung perangkat utama dari faktor external											
+D	Bahan baku proses pengkapsulan untuk melindungi perangkat utama											
+	
+																						
+4.Termasuk type package apakah Device berikut ini ? AN18162A-VT, AN18163A-VT, AN18164A-VB								
+A	QFP 100											
+B	LQFP 48											
+C	LQFP 64											
+D	LQFP 100											
+	
+																						
+5.Bagian bawah Die pad yang berfungsi untuk penghantar panas saat produk melakukan kinerjanya, adalah ..										
+A	Trolly											
+B	Heatsink											
+C	Magazine											
+D	Pre heater											
+
+
+6.Apa yang disebut dengan Lead Frame ?						
+A.	Alat untuk memotong material
+B.	Material tempat mengassembly semua komponen semiconductor
+C.	Alat untuk membersihkan rubber collet
+D.	Material yang berfungsi untuk mengeluarkan Ag paste ke die pad
+
+7.Disamping ini mana yang disebut lead ?
+A	1
+B	2
+C	3
+D	4
+
+
+8. Gambar di atas mana yang disebut dengan die pad ?
+
+A	1
+B	2
+C	3
+D	4
+
+9. Apa yang dimaksud dengan lead ?
+A	Kaki kaki pada material berfungsi menghantarkan aliran fungsi material
+B	Tempat melekatnya chip pada lead frame
+C	Arah orientasi lead frame
+D	Material yang berfungsi sebagai perekat chip pada lead frame
+
+10. Jenis jenis BU (bisnis unit ) di PSCID saat ini adalah ?
+A	A-LSI,QFH 64,PSCDD & DISCRETE,
+B	A-LSI,S-LSI,PSCDD,DISCRETE,FLD,HYBRID,INLET
+C	A-LSI,S-LSI,PSCDD,DISCRETE,ZA
+D	MNDD,MCS-LSI,M-TAG,INLET
